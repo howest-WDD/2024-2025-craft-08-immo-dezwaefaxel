@@ -68,6 +68,22 @@ fieldLayouts:
             warning: null
             width: 100
           -
+            dateAdded: '2024-11-22T09:35:58+00:00'
+            elementCondition: null
+            fieldUid: 4aa7473c-52ce-4bef-8878-71fd12fa835a # Category
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c0eeac21-c971-4f97-a9e7-92cb3ee034b0
+            userCondition: null
+            warning: null
+            width: 100
+          -
             dateAdded: '2024-11-18T15:29:45+00:00'
             elementCondition: null
             fieldUid: d3b42bd7-e7fb-4536-8773-1f5957362b49 # Price
